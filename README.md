@@ -3,6 +3,6 @@
   just work on firefox!
   coming soon work on chrome!
   ---------------------------
-  --tutorial--
+  --tutorial--<br>
   Coming soon
   ---------------------------
