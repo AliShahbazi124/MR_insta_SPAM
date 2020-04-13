@@ -1,0 +1,12 @@
+C:\Users\Ali\Desktop\MR_insta_SPAM\MR_insta_SPAM\obj\Debug\MR_insta_SPAM.csprojAssemblyReference.cache
+C:\Users\Ali\Desktop\MR_insta_SPAM\MR_insta_SPAM\obj\Debug\MR_insta_SPAM.Properties.Resources.resources
+C:\Users\Ali\Desktop\MR_insta_SPAM\MR_insta_SPAM\obj\Debug\MR_insta_SPAM.csproj.GenerateResource.cache
+C:\Users\Ali\Desktop\MR_insta_SPAM\MR_insta_SPAM\bin\Debug\MR_insta_SPAM.exe.config
+C:\Users\Ali\Desktop\MR_insta_SPAM\MR_insta_SPAM\bin\Debug\MR_insta_SPAM.exe
+C:\Users\Ali\Desktop\MR_insta_SPAM\MR_insta_SPAM\bin\Debug\MR_insta_SPAM.pdb
+C:\Users\Ali\Desktop\MR_insta_SPAM\MR_insta_SPAM\bin\Debug\WebDriver.dll
+C:\Users\Ali\Desktop\MR_insta_SPAM\MR_insta_SPAM\bin\Debug\WebDriver.xml
+C:\Users\Ali\Desktop\MR_insta_SPAM\MR_insta_SPAM\obj\Debug\MR_insta_SPAM.Form1.resources
+C:\Users\Ali\Desktop\MR_insta_SPAM\MR_insta_SPAM\obj\Debug\MR_insta_SPAM.csproj.CopyComplete
+C:\Users\Ali\Desktop\MR_insta_SPAM\MR_insta_SPAM\obj\Debug\MR_insta_SPAM.exe
+C:\Users\Ali\Desktop\MR_insta_SPAM\MR_insta_SPAM\obj\Debug\MR_insta_SPAM.pdb
